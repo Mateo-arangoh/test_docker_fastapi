@@ -1,2 +1,1 @@
-fastapi
-uvicorn
+fastapiuvicornsqlalchemypymysqlpython-multipartboto3mangum  
